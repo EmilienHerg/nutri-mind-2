@@ -9,6 +9,7 @@ import usePageTitle from '../usePageTitle'
 const INTRO =
   "Nutri'Mind est né d'un constat simple : nous jetons trop, souvent sans le vouloir. Notre mission est de transformer chaque foyer en allié du zéro déchet, sans effort et sans culpabilité."
 
+  
 const PROBLEM =
   "En France, une grande partie du gaspillage alimentaire a lieu directement à la maison : produits oubliés au fond du frigo, dates dépassées, portions mal anticipées. Pourtant, l'essentiel pourrait être évité avec un peu d'organisation."
 
