@@ -19,6 +19,7 @@ const shortcuts = [
     to: routes.recipes,
     Icon: PotIcon,
   },
+  
   {
     title: 'Conseils',
     description: 'Réduisez le gaspillage au quotidien.',
